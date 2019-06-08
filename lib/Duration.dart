@@ -21,7 +21,7 @@ const TimeDuration (
 {
   int hour = 0,
   int minutes = 0,
-  int secons = 0,
+  int seconds = 0,
   int microseconds = 0,
 }):this._microseconds(secondPerDay*minutesPerDay);
 
