@@ -6,7 +6,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
 
-import 'colors.dart';
+import 'Colors_theme.dart';
 import 'text_theme.dart';
 
 export 'package:flutter/services.dart' show Brightness;
