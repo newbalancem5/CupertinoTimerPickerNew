@@ -2,7 +2,7 @@ part of dart.core;
 
 
 
-class TimeDuration implements Comparable<TimeDuration>{
+class TimeDuration implements Comparable<Duration>{
 static const minutesPerHour = 60;
 static const secondPerMinutes = 60;
 static const hoursPerDay = 24;
